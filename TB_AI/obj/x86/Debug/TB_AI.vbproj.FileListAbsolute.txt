@@ -1,0 +1,11 @@
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\bin\Debug\TB_AI.exe
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\bin\Debug\TB_AI.pdb
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\bin\Debug\TB_AI.xml
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\TB_AI.Resources.resources
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\TB_AI.exe
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\TB_AI.xml
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\TB_AI.pdb
+c:\users\fauzan\documents\visual studio 2010\Projects\TB_AI\TB_AI\obj\x86\Debug\TB_AI.Form1.resources
