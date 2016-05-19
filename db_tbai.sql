@@ -1,0 +1,85 @@
+-- phpMyAdmin SQL Dump
+-- version 4.2.11
+-- http://www.phpmyadmin.net
+--
+-- Host: 127.0.0.1
+-- Generation Time: 19 Mei 2016 pada 11.30
+-- Versi Server: 5.6.21
+-- PHP Version: 5.6.3
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `db_tbai`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Struktur dari tabel `air`
+--
+
+CREATE TABLE IF NOT EXISTS `air` (
+  `id_air` varchar(15) NOT NULL,
+  `status` varchar(15) NOT NULL,
+  `tanggal` varchar(25) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data untuk tabel `air`
+--
+
+INSERT INTO `air` (`id_air`, `status`, `tanggal`) VALUES
+('ID0001', 'AIR KERUH', '5/19/2016 4:20:52 PM'),
+('ID0002', 'AIR KERUH', '5/19/2016 4:21:08 PM'),
+('ID0003', 'AIR KERUH', '5/19/2016 4:21:24 PM'),
+('ID0004', 'AIR KERUH', '5/19/2016 4:21:40 PM'),
+('ID0005', 'AIR KERUH', '5/19/2016 4:21:56 PM'),
+('ID0006', 'AIR KERUH', '5/19/2016 4:22:12 PM'),
+('ID0007', 'AIR KERUH', '5/19/2016 4:22:28 PM'),
+('ID0008', 'AIR KERUH', '5/19/2016 4:22:44 PM'),
+('ID0009', 'AIR JERNIH', '5/19/2016 4:23:00 PM'),
+('ID0010', 'AIR KERUH', '5/19/2016 4:23:16 PM'),
+('ID0011', 'AIR KERUH', '5/19/2016 4:23:32 PM'),
+('ID0012', 'AIR KERUH', '5/19/2016 4:23:47 PM'),
+('ID0013', 'AIR KERUH', '5/19/2016 4:24:03 PM'),
+('ID0014', 'AIR KERUH', '5/19/2016 4:24:19 PM'),
+('ID0015', 'AIR KERUH', '5/19/2016 4:24:35 PM'),
+('ID0016', 'AIR KERUH', '5/19/2016 4:24:51 PM'),
+('ID0017', 'AIR KERUH', '5/19/2016 4:25:07 PM'),
+('ID0018', 'AIR KERUH', '5/19/2016 4:25:23 PM'),
+('ID0019', 'AIR KERUH', '5/19/2016 4:25:39 PM'),
+('ID0020', 'AIR KERUH', '5/19/2016 4:25:55 PM'),
+('ID0021', 'AIR KERUH', '5/19/2016 4:26:11 PM'),
+('ID0022', 'AIR KERUH', '5/19/2016 4:26:27 PM'),
+('ID0023', 'AIR KERUH', '5/19/2016 4:26:43 PM'),
+('ID0024', 'AIR KERUH', '5/19/2016 4:26:59 PM'),
+('ID0025', 'AIR KERUH', '5/19/2016 4:27:15 PM'),
+('ID0026', 'AIR KERUH', '5/19/2016 4:27:31 PM'),
+('ID0027', 'AIR JERNIH', '5/19/2016 4:27:46 PM'),
+('ID0028', 'AIR JERNIH', '5/19/2016 4:28:02 PM'),
+('ID0029', 'AIR JERNIH', '5/19/2016 4:28:18 PM'),
+('ID0030', 'AIR JERNIH', '5/19/2016 4:28:34 PM'),
+('ID0031', 'AIR JERNIH', '5/19/2016 4:28:50 PM'),
+('ID0032', 'AIR KERUH', '5/19/2016 4:29:06 PM');
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `air`
+--
+ALTER TABLE `air`
+ ADD PRIMARY KEY (`id_air`);
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
